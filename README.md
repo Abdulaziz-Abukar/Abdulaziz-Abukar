@@ -20,8 +20,6 @@
 
 - ⚡ Fun fact **I always will believe Goku can beat Saitama**
 
-- 
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
