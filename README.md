@@ -4,7 +4,7 @@
 <p align="center">
   🌐 <strong>Check out my portfolio:</strong><br>
   <a href="https://abdulaziz-abukar.github.io" target="_blank">
-    👉 abdulaziz-abukar.github.io/My-Portfolio/
+    👉 abdulaziz-abukar.github.io
   </a>
 </p>
 
