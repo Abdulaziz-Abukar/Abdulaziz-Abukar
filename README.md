@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a extraordinary Front-End Engineer<br>👯 I’m looking to collaborate on any creative projects that aim to solve real world problems<br>🌱 I’m currently learning React!<br>💬 Ask me about why i love coding<br>⚡ Fun fact Goku > Saitama
+🔭 I’m currently working on becoming a extraordinary Full-Stack Engineer<br>👯 I’m looking to collaborate on any creative projects that aim to solve real world problems<br>🌱 I’m currently learning GraphQL!<br>💬 Ask me about why i love coding<br>⚡ Fun fact Goku > Saitama
 
 
 ## 🌐 Socials:
